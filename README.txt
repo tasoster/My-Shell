@@ -1,10 +1,4 @@
 Systems Programming - Project 2  
-(https://eclass.uoa.gr/modules/document/file.php/DI507/HW2.pdf)
-
-
-
-NOTE: I don't include the completion report .docx, since my project meets all requirements 
-
 
 Server (Exercise 1)
 ===========================================================================================================
